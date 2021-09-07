@@ -2,4 +2,4 @@
 
 ## Site closer to production grade by adding Permissions and Postgresql Database.
 
-PR: https://github.com/arahal81/drf-auth/pull/1
+PR: https://github.com/arahal81/drf-auth-/pull/1
