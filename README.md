@@ -1,5 +1,5 @@
-# Lab: 32 - Permissions & Postgresql
+# Lab: 33 Authentication & Production Server
 
-## Site closer to production grade by adding Permissions and Postgresql Database.
+## API closer to production grade by adding Authentication and switching to a Production Server
 
 PR: https://github.com/arahal81/drf-auth-/pull/1
